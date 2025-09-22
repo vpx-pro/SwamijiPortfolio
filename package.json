@@ -1,0 +1,30 @@
+{
+  "name": "pandit-satyendra-deo-sharma-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Master Pandit Satyendra Deo Sharma - Sitar Maestro",
+  "main": "index.html",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Static site - no build required'",
+    "deploy": "vercel --prod"
+  },
+  "keywords": [
+    "sitar",
+    "classical-music",
+    "indian-music",
+    "raga",
+    "portfolio",
+    "pandit",
+    "maestro"
+  ],
+  "author": "Master Pandit Satyendra Deo Sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "vercel": "^32.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-username/pandit-satyendra-deo-sharma-portfolio.git"
+  },
+  "homepage": "https://pandit-satyendra-deo-sharma.vercel.app"
+}
